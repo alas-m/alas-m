@@ -20,8 +20,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3A2E4D?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-2B1A3D?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-3A2E4D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-2B1A3D?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-3A2E4D?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-2B1A3D?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-3A2E4D?style=for-the-badge&logo=blender&logoColor=F5792A" />
+  <img src="https://img.shields.io/badge/OSINT-2D2D2D?style=for-the-badge&logo=protonvpn&logoColor=9D4EDD" />
   <img src="https://img.shields.io/badge/SQLite-2D2D2D?style=for-the-badge&logo=sqlite&logoColor=9D4EDD" />
-  <img src="https://img.shields.io/badge/FFmpeg-2D2D2D?style=for-the-badge&logo=ffmpeg&logoColor=9D4EDD" />
 </p>
 
 ---
