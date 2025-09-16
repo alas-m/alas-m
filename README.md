@@ -53,4 +53,7 @@
   <a href="https://www.linkedin.com/in/malik-alasgar-630ba6367">
     <img src="https://img.shields.io/badge/LinkedIn-3A2E4D?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://t.me/cnddev">
+    <img src="https://img.shields.io/badge/Telegram-3A2E4D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
