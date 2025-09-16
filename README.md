@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Building bots, tools, and backends with clean code principles.</b>
+  <b>Building scenes in Blender, games in Unreal Engine, bots, tools, and backends with clean code principles.</b>
 </p>
 
 ---
