@@ -8,6 +8,21 @@
 
 ---
 
+## 🌐 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/malik-alasgar-630ba6367">
+    <img src="https://img.shields.io/badge/LinkedIn-3A2E4D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/cnddev">
+    <img src="https://img.shields.io/badge/Telegram-3A2E4D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/cnddevlog/">
+    <img src="https://img.shields.io/badge/Instagram-3A2E4D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 👾 About Me
 - Developer with a background in **Economics & Management**  
 - Passionate about **automation, data tools, and backend systems**  
@@ -47,19 +62,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alas-m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0A14&title_color=9D4EDD&icon_color=7B2CBF" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alas-m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0A14&title_color=9D4EDD" height="170" />
-</p>
-
----
-
-## 🌐 Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/malik-alasgar-630ba6367">
-    <img src="https://img.shields.io/badge/LinkedIn-3A2E4D?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/cnddev">
-    <img src="https://img.shields.io/badge/Telegram-3A2E4D?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/cnddevlog/">
-    <img src="https://img.shields.io/badge/Instagram-3A2E4D?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
