@@ -59,7 +59,7 @@
   <a href="https://t.me/cnddev">
     <img src="https://img.shields.io/badge/Telegram-3A2E4D?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://t.me/cnddev](https://www.instagram.com/cnddevlog/)">
+  <a href="https://www.instagram.com/cnddevlog/">
     <img src="https://img.shields.io/badge/Instagram-3A2E4D?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
