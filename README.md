@@ -35,7 +35,10 @@
 - 🎵 **YouTube to MP3 Bot** — Convert YouTube videos into MP3 with cover art and metadata  
 - 📂 **Database Lookup Utility** — C++ tool for searching SQLite DBs via SHA-256 hashes  
 - 🎲 **Discord Gambling Bot** — Mini-games for Discord servers  
-- 📝 **Allyx** — Minimal dark-themed code editor in Tkinter  
+- 📝 **Allyx** — Minimal dark-themed code editor in Tkinter
+- 👤 **AnonForum** — Anonymous Forum bot in Telegram
+- 👾 **Linkspider** — Powerful link analysis tool
+- 📩 **SQLite Column Hashing Tool** - A tool that adds SHA-256 hash columns to your SQLite database tables
 
 ---
 
