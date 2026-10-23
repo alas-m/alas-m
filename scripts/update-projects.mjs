@@ -10,6 +10,9 @@ const README = 'README.md';
 const START = '<!-- PROJECTS:START -->';
 const END = '<!-- PROJECTS:END -->';
 
+// Repos never shown in the project table (websites / housekeeping)
+const EXCLUDE = new Set([USER, 'cndshop.github.io', 'alas-m.github.io']);
+
 // Official linguist colors for the language badge
 const LANG_COLORS = {
   Python: '3776AB', JavaScript: 'F7DF1E', TypeScript: '3178C6', C: '555555',
@@ -28,7 +31,7 @@ if (!res.ok) { console.error(`API ${res.status}: ${await res.text()}`); process.
 const repos = await res.json();
 
 const rows = repos
-  .filter(r => !r.fork && r.name !== USER)
+  .filter(r => !r.fork && !EXCLUDE.has(r.name))
   .map(r => {
     const name = `**[${r.name}](${r.html_url})**`;
     const desc = r.description ?? '*no description yet*';

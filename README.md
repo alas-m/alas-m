@@ -49,8 +49,6 @@
 | Project | About |
 |---|---|
 | **[AllyxCode](https://github.com/alas-m/AllyxCode)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=0D1117) | Allyx 2.0 - a fast, minimal IDE built on Electron. Monaco editor, vanilla renderer, zero runtime dependencies. |
-| **[cndshop.github.io](https://github.com/alas-m/cndshop.github.io)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=0D1117) | *no description yet* |
-| **[alas-m.github.io](https://github.com/alas-m/alas-m.github.io)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=0D1117) | *no description yet* |
 | **[UPL-Uncertain-Programming-Language-](https://github.com/alas-m/UPL-Uncertain-Programming-Language-)**<br>![code](https://img.shields.io/badge/code-8B949E?style=flat-square&labelColor=0D1117) | UPL (.uc) — a quirky interpreted language whose runtime speaks in the voice of the Department of Uncertainty: truth is Legit, lies are Fake, nothing is Nun. Dynamic typing, groups-with-methods, try/catch (goforit/nab/yeet), for/forevery, 60+ themed builtins, file I/O. Tree-walking interpreter, one main.cpp, zero deps, VS2022. |
 | **[Phronesis-PI](https://github.com/alas-m/Phronesis-PI)**<br>![code](https://img.shields.io/badge/code-8B949E?style=flat-square&labelColor=0D1117) | Self-hosted AI chat client for the PI agent engine — zero-dependency Node.js web UI with real-time streaming, session management, and full slash-command integration. |
 | **[YoutubeToMP3](https://github.com/alas-m/YoutubeToMP3)**<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0D1117) | Youtube to MP3 converting Telegram bot |
