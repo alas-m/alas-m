@@ -38,15 +38,15 @@ const rows = repos
     const lang = r.language
       ? `![${r.language}](https://img.shields.io/badge/${encodeURIComponent(r.language)}-${LANG_COLORS[r.language] ?? '8B949E'}?style=flat-square&labelColor=0D1117)`
       : '![code](https://img.shields.io/badge/code-8B949E?style=flat-square&labelColor=0D1117)';
-    return `| ${name}<br>${lang} | ${desc.replaceAll('|', '\\|')} |`;
+    return `| ${name} | ${desc.replaceAll('|', '\\|')} | ${lang} |`;
   });
 
 const block = [
   START,
   '<p align="center"><samp>auto-generated from my public repos — refreshed every 6 hours</samp></p>',
   '',
-  '| Project | About |',
-  '|---|---|',
+  '| Project | About | Language |',
+  '|---|---|---|',
   ...rows,
   END,
 ].join('\n');
